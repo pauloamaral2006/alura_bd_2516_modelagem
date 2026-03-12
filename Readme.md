@@ -17,5 +17,5 @@
 
 ## 🧑‍🏫 Instrutor(es)
 
-| [<img loading="lazy" src="https://cdn2.gnarususercontent.com.br/1/355666/7398af2d-6e6c-4c74-a6d2-d45a6b3031bb.jpg?width=100&height=100&aspect_ratio=1:1" width=115><br><sub>Daniel Siqueira</sub>](https://www.linkedin.com/in/daniel-p-siqueira-79b2001ba/o) |
+| [<img loading="lazy" src="https://cdn2.gnarususercontent.com.br/1/355666/7398af2d-6e6c-4c74-a6d2-d45a6b3031bb.jpg?width=100&height=100&aspect_ratio=1:1" width=115><br><sub>Daniel Siqueira</sub>](https://www.linkedin.com/in/daniel-p-siqueira-79b2001ba) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
